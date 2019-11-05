@@ -1,0 +1,76 @@
+body {
+    font-size: 1.5rem;
+    font-family: "Liu Jian Mao Cao", cursive;
+    letter-spacing: 5px;
+    margin: 15px 35px 45px 35px;
+}
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px 2px red;
+}
+h2 {
+    text-align: left;
+}
+/* QUAD FRMLA IMAGE */
+#img0 {
+    width: 30%;
+    height: auto;
+    margin-right: 35%;
+    margin-left: 35%;
+    border: 1px black solid;
+    outline: 1px red solid;
+
+}
+/* EMPTY QUAD FMLA IMG */
+#img1 {
+    width: 50%;
+    height: auto;
+    margin-right: 25%;
+    margin-left: 25%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+#img2 {
+    width: 50%;
+    height: auto;
+    margin-right: 25%;
+    margin-left: 25%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+#img3 {
+    width: 50%;
+    height: auto;
+    margin-right: 25%;
+    margin-left: 25%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+#img4 {
+    width: 50%;
+    height: auto;
+    margin-right: 25%;
+    margin-left: 25%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+#img5 {
+    width: 50%;
+    height: auto;
+    margin-right: 25%;
+    margin-left: 25%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+#img6 {
+    width: 50%;
+    height: auto;
+    margin-right: 25%;
+    margin-left: 25%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+footer {
+    font-size: 1rem;
+    text-align: center;
+}
